@@ -11,8 +11,8 @@ class VideoCallPage extends StatefulWidget {
 }
 
 class _VideoCallPageState extends State<VideoCallPage> {
-  static const String appId = "890f63271fdf4cb7b7a19529d352189c";
-  static const String tempToken = "665dffd1bf1a4ea388d91b465f5d0f06";
+  static const String appId = ""; //gunakan string appId
+  static const String tempToken = ""; //gunakan string tempToken
 
   late RtcEngine _engine;
   bool _localUserJoined = false;
