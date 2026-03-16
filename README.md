@@ -1,6 +1,6 @@
 # MindCare - Psychology Telemedicine App
 
-A mobile telemedicine application developed during internship at RSUD RAA Soewondo Pati, enabling remote psychological consultations between patients and psychologists via real-time video call.
+A mobile telemedicine application for online psychology consultation services, enabling remote psychological consultations between patients and psychologists via real-time video call.
 
 ## Features
 - Patient and psychologist authentication
