@@ -1,17 +1,16 @@
-# coba
+# MindCare - Psychology Telemedicine App
 
-A new Flutter project.
+A mobile telemedicine application developed during internship at RSUD RAA Soewondo Pati, enabling remote psychological consultations between patients and psychologists via real-time video call.
 
-## Getting Started
+## Features
+- Patient and psychologist authentication
+- Consultation scheduling
+- Pre-consultation assessment form
+- Real-time video call using Agora SDK
+- Daily mood tracker
+- Mental health articles (MindStory)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-#aplikasi_mindcare
+## Tech Stack
+- Flutter & Dart
+- Agora Video Call SDK
+- Firebase (Authentication, Realtime Database, Cloud Storage)
